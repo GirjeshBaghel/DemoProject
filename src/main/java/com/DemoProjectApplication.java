@@ -14,6 +14,9 @@ public class DemoProjectApplication {
         System.out.println("Demo Project Is Running");
         System.out.println("Jenkins Class is Running 5");
         System.out.println("Jenkins Class is Running 6");
+        System.out.println("Demo  Class is Running 7");
+        System.out.println("Demo  Class is Running 8");
+
 
 
     }
