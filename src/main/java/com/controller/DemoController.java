@@ -10,6 +10,6 @@ public class DemoController {
     @GetMapping("/")
     public String demo1()
     {
-        return "Project Running";
+        return " Demo Project Running";
     }
 }
