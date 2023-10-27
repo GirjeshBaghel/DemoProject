@@ -12,7 +12,8 @@ public class DemoProjectApplication {
         JenkinsClass ob = new JenkinsClass();
         ob.demo();
         System.out.println("Demo Project Is Running");
-        System.out.println("Jenkins Class is Call");
+        System.out.println("Jenkins Class is Running 5");
+        System.out.println("Jenkins Class is Running 6");
 
 
     }
