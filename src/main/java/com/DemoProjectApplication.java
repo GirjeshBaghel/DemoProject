@@ -12,6 +12,7 @@ public class DemoProjectApplication {
 
         System.out.println("Jai shree ram Hello12");
         System.out.println("hhff");
+        System.out.println("Dummy Project");
         System.out.println("jhfxx");
 
     }
