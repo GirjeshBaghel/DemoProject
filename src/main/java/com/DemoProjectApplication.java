@@ -16,6 +16,7 @@ public class DemoProjectApplication {
         System.out.println("Jenkins Class is Running 6");
         System.out.println("Demo  Class is Running 7");
         System.out.println("Demo  Class is Running 8");
+        System.out.println("Demo  Class is Running 9");
 
 
 
