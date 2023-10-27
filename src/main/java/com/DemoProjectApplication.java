@@ -9,7 +9,8 @@ public class DemoProjectApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoProjectApplication.class, args);
         System.out.println("Demo Project Is Running");
-        System.out.println("Changes in Main Class");
+
+        System.out.println("Jai shree ram");
 
     }
 
