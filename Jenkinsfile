@@ -5,7 +5,7 @@ pipeline {
       steps {
         echo 'build successfully'
         sh 'mvn clean'
-        sh 'mvn install'
+        sh 'mvn package'
       }
     }
 
